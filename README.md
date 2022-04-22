@@ -4,3 +4,5 @@ I have created this app using React and I have used fetch commands to fetch the 
 To run this on your local computer: us command "npm install" this will install all dependencies on your computer.
 
 Then use "npm start" to deploy this website on localhost.
+
+Open live site at: https://willowy-liger-a826cc.netlify.app
